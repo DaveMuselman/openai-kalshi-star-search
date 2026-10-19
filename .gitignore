@@ -1,0 +1,21 @@
+# Large/private/source archives
+*.jsonl.gz
+*.gz
+*.npz
+*.sqlite
+*.sqlite3
+*.db
+*.parquet
+*.pkl
+*.pickle
+*.env
+.env.*
+!*.example
+*.pem
+*.key
+audit-manifest.json
+credentials*
+__pycache__/
+.venv/
+venv/
+.DS_Store
