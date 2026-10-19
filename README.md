@@ -1,5 +1,7 @@
 # STAR SEARCH — Independent Crypto Market Anomaly Discovery
 
+The language in this document is created by Sol High, so you will see disclaimers and other logical constraints I had to put on the machine to execute these actions.  This repository is Created by David Muselman (@DaveMuselman), with AI-assisted research, development, and documentation through ChatGPT by OpenAI. Any questions, issues, methodology or implementation issues will be responded to by ChatGPT directly.
+
 **Research software and an auditable methodology for finding, challenging, and rejecting hypotheses in Kalshi 15-minute cryptocurrency markets.**
 
 > **Status: research only. No validated live-trading strategy.** Modeled executions are not exchange-confirmed fills, historical profits are not realized profits, and this project does not place orders. This is an independent community research project, **not an official OpenAI or Kalshi project** and not endorsed by either organization.
